@@ -1,0 +1,11 @@
+# build output
+build/
+*.o
+*.so
+*.user
+
+# editor / OS
+.vscode/
+.idea/
+*~
+.DS_Store
